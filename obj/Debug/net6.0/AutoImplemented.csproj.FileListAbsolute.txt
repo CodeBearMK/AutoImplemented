@@ -1,0 +1,15 @@
+D:\cat32tw\Desktop\AutoImplemented\obj\Debug\net6.0\AutoImplemented.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\AutoImplemented\obj\Debug\net6.0\AutoImplemented.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat32tw\Desktop\AutoImplemented\obj\Debug\net6.0\AutoImplemented.AssemblyInfoInputs.cache
+D:\cat32tw\Desktop\AutoImplemented\obj\Debug\net6.0\AutoImplemented.AssemblyInfo.cs
+D:\cat32tw\Desktop\AutoImplemented\obj\Debug\net6.0\AutoImplemented.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\AutoImplemented\bin\Debug\net6.0\AutoImplemented.exe
+D:\cat32tw\Desktop\AutoImplemented\bin\Debug\net6.0\AutoImplemented.deps.json
+D:\cat32tw\Desktop\AutoImplemented\bin\Debug\net6.0\AutoImplemented.runtimeconfig.json
+D:\cat32tw\Desktop\AutoImplemented\bin\Debug\net6.0\AutoImplemented.dll
+D:\cat32tw\Desktop\AutoImplemented\bin\Debug\net6.0\ref\AutoImplemented.dll
+D:\cat32tw\Desktop\AutoImplemented\bin\Debug\net6.0\AutoImplemented.pdb
+D:\cat32tw\Desktop\AutoImplemented\obj\Debug\net6.0\AutoImplemented.dll
+D:\cat32tw\Desktop\AutoImplemented\obj\Debug\net6.0\ref\AutoImplemented.dll
+D:\cat32tw\Desktop\AutoImplemented\obj\Debug\net6.0\AutoImplemented.pdb
+D:\cat32tw\Desktop\AutoImplemented\obj\Debug\net6.0\AutoImplemented.genruntimeconfig.cache
